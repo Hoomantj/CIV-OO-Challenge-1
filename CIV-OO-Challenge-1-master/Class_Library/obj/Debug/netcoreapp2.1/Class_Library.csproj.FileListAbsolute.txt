@@ -1,0 +1,9 @@
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/bin/Debug/netcoreapp2.1/Class_Library.deps.json
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/bin/Debug/netcoreapp2.1/Class_Library.dll
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/bin/Debug/netcoreapp2.1/Class_Library.pdb
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/obj/Debug/netcoreapp2.1/Class_Library.csprojAssemblyReference.cache
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/obj/Debug/netcoreapp2.1/Class_Library.csproj.CoreCompileInputs.cache
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/obj/Debug/netcoreapp2.1/Class_Library.AssemblyInfoInputs.cache
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/obj/Debug/netcoreapp2.1/Class_Library.AssemblyInfo.cs
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/obj/Debug/netcoreapp2.1/Class_Library.dll
+/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/obj/Debug/netcoreapp2.1/Class_Library.pdb

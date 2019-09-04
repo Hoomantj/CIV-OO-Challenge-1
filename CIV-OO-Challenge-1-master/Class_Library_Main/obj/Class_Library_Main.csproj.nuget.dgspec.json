@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library_Main/Class_Library_Main.csproj": {}
+  },
+  "projects": {
+    "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/Class_Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/Class_Library.csproj",
+        "projectName": "Class_Library",
+        "projectPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/Class_Library.csproj",
+        "packagesPath": "/Users/hoomantayefehjafari/.nuget/packages/",
+        "outputPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hoomantayefehjafari/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library_Main/Class_Library_Main.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library_Main/Class_Library_Main.csproj",
+        "projectName": "Class_Library_Main",
+        "projectPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library_Main/Class_Library_Main.csproj",
+        "packagesPath": "/Users/hoomantayefehjafari/.nuget/packages/",
+        "outputPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library_Main/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hoomantayefehjafari/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/Class_Library.csproj": {
+                "projectPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/Class_Library.csproj"
+              },
+              "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Quadrilateral_Tests/Quadrilateral_Tests.csproj": {
+                "projectPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Quadrilateral_Tests/Quadrilateral_Tests.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Quadrilateral_Tests/Quadrilateral_Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Quadrilateral_Tests/Quadrilateral_Tests.csproj",
+        "projectName": "Quadrilateral_Tests",
+        "projectPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Quadrilateral_Tests/Quadrilateral_Tests.csproj",
+        "packagesPath": "/Users/hoomantayefehjafari/.nuget/packages/",
+        "outputPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Quadrilateral_Tests/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hoomantayefehjafari/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/Class_Library.csproj": {
+                "projectPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Class_Library/Class_Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.8.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.10.0, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.10.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

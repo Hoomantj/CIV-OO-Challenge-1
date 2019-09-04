@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Shape/Class_.csproj": {}
+  },
+  "projects": {
+    "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Shape/Class_.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Shape/Class_.csproj",
+        "projectName": "Class_",
+        "projectPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Shape/Class_.csproj",
+        "packagesPath": "/Users/hoomantayefehjafari/.nuget/packages/",
+        "outputPath": "/Users/hoomantayefehjafari/Desktop/CIV-OO-Challenge-1-master/Shape/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/hoomantayefehjafari/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

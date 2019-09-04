@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Library", "Class_Library\Class_Library.csproj", "{63EE2E20-6962-481C-A93B-A4E76A339112}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quadrilateral_Tests", "Quadrilateral_Tests\Quadrilateral_Tests.csproj", "{40936058-CC41-4EE9-9946-8C61463D503A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class_Library_Main", "Class_Library_Main\Class_Library_Main.csproj", "{833A88C7-8130-4BE8-889B-DADC7E98DCBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63EE2E20-6962-481C-A93B-A4E76A339112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63EE2E20-6962-481C-A93B-A4E76A339112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63EE2E20-6962-481C-A93B-A4E76A339112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63EE2E20-6962-481C-A93B-A4E76A339112}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40936058-CC41-4EE9-9946-8C61463D503A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40936058-CC41-4EE9-9946-8C61463D503A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40936058-CC41-4EE9-9946-8C61463D503A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40936058-CC41-4EE9-9946-8C61463D503A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{833A88C7-8130-4BE8-889B-DADC7E98DCBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833A88C7-8130-4BE8-889B-DADC7E98DCBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833A88C7-8130-4BE8-889B-DADC7E98DCBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833A88C7-8130-4BE8-889B-DADC7E98DCBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
